@@ -42,6 +42,7 @@ Repository ini ditujukan sebagai dokumentasi desain dan referensi pengembangan a
 
 ---
 
-## 🙌 Penutup
-Semoga desain ini dapat menjadi langkah awal dalam menghadirkan sistem transportasi kampus UKSW yang lebih baik dan terintegrasi.
+## 📷 Preview
+[Figma Design Click Me!](https://www.figma.com/design/UDkf8Db9KGg3iPEmA6TInE/TTS_KELOMPOK-1-BUS-TAYO?t=6lGuuW1CEKdXMtik-0)
 
+---
