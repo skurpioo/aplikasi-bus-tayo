@@ -1,48 +1,48 @@
-# 🚌 Bus Tayo
+# 🚌 Bus UNDIP
 
-**Bus Tayo** adalah aplikasi bus universitas UKSW yang dirancang untuk membantu mahasiswa dan civitas akademika dalam mengakses informasi transportasi bus kampus dengan lebih mudah, cepat, dan intuitif.
+**Bus UNDIP** adalah aplikasi bus kampus Universitas Diponegoro yang dirancang untuk membantu mahasiswa dan civitas akademika dalam mengakses informasi transportasi bus kampus secara mudah, cepat, dan intuitif.
 
-Repository ini berisi **desain UI/UX dan prototype aplikasi Bus Tayo** yang dibuat menggunakan **Figma**, sebagai tahap awal sebelum aplikasi dikembangkan dan dideploy ke versi aplikasi sebenarnya.
+Repository ini berisi **desain UI/UX serta prototype aplikasi Bus UNDIP** yang dibuat menggunakan **Figma**, sebagai tahap awal sebelum aplikasi dikembangkan dan dideploy ke versi aplikasi mobile yang sebenarnya.
 
 ---
 
 ## 🎯 Tujuan Proyek
 - Menyediakan rancangan antarmuka aplikasi bus kampus yang **user-friendly**
-- Meningkatkan pengalaman pengguna (UI/UX) dalam mengakses informasi bus UKSW
-- Menjadi dasar visual dan alur sebelum tahap development aplikasi
+- Meningkatkan pengalaman pengguna (UI/UX) dalam mengakses informasi bus UNDIP
+- Menjadi dasar visual dan alur (user flow) sebelum masuk ke tahap development
 
 ---
 
 ## 🎨 Design & Prototype
-- Tool Design: **Figma**
-- Fokus pada:
+- **Design Tool:** Figma  
+- **Fokus Desain:**
   - Kemudahan navigasi
-  - Tampilan yang simpel dan modern
-  - Alur pengguna yang jelas (user flow)
+  - Tampilan sederhana dan modern
+  - Alur pengguna yang jelas dan intuitif
 - Prototype dibuat untuk mensimulasikan pengalaman penggunaan aplikasi secara nyata
 
 ---
 
 ## ✨ Fitur yang Dirancang
-- Informasi rute bus universitas
-- Jadwal dan waktu keberangkatan
-- Tampilan peta dan halte bus
-- Desain antarmuka yang ramah pengguna
+- Informasi rute bus Universitas Diponegoro
+- Jadwal dan waktu keberangkatan bus
+- Tampilan peta serta lokasi halte bus
+- Antarmuka aplikasi yang ramah pengguna
 
 ---
 
 ## 🚀 Status Proyek
 🔧 **Tahap Desain & Prototype**  
-Aplikasi ini masih berupa rancangan UI/UX dan prototype, belum dideploy ke aplikasi mobile secara penuh.
+Aplikasi ini masih berupa rancangan UI/UX dan prototype, dan belum dikembangkan ke dalam aplikasi mobile secara penuh.
 
 ---
 
 ## 📌 Catatan
-Repository ini ditujukan sebagai dokumentasi desain dan referensi pengembangan aplikasi Bus Tayo ke tahap selanjutnya.
+Repository ini digunakan sebagai dokumentasi desain dan referensi awal untuk pengembangan aplikasi **Bus UNDIP** ke tahap selanjutnya.
 
 ---
 
-## 📷 Preview
-[Figma Design Click Me!](https://www.figma.com/design/UDkf8Db9KGg3iPEmA6TInE/TTS_KELOMPOK-1-BUS-TAYO?t=6lGuuW1CEKdXMtik-0)
+## 📷 Preview Design
+🔗 [Figma Design – Click Me!](https://www.figma.com/design/fHgWHgTMVmKSVMaHhEC3sW/IOT_KELOMPOK-5?node-id=0-1&t=O3hLFaZreP0rnY37-1)
 
 ---
